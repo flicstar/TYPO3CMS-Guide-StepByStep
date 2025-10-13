@@ -1,6 +1,6 @@
 # Modifying the page properties
 
-<!-- #TYPO3v13 #Beginner #Backend #Editing #Configuration @philippefekete -->
+ **Tested in:** [TYPO3v13](/Tags/TYPO3v13.md) **Categories:** [Beginner](/Tags/Beginner.md) [Backend](/Tags/Backend.md) [Editing](/Tags/Editing.md) [Configuration](/Tags/Configuration.md) **Author:** [@philippefekete](https://my.typo3.org/u/philippefekete)
 
 Modifying page properties in TYPO3 enables you to control how each page of your site behaves, appears, and is structured within the overall site hierarchy. From basic settings like titles, visibility, and URL segments to more advanced options such as access restrictions, metadata, and caching behavior, page properties give you fine-grained control over both the frontend presentation and backend organization of your content.
 
